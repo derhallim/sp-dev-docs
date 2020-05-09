@@ -11,6 +11,7 @@ localization_priority: Priority
 Creativity and teamwork are essential to transforming business processes. Most processes center on content – files and data. SharePoint offers tools to gather and manage data in lists and libraries.
 
 Microsoft 365 provides connections to a range of third-party systems with Power Automate and Power Apps. Power Automate lets you automate business processes, and Power Apps lets you create great forms and mobile apps based on SharePoint files and data. Both Power Automate and Power Apps feature intuitive visual designers, so anyone can craft forms and screens using a convenient interface.
+## Microsoft Flow1
 
 ## Power Automate
 
