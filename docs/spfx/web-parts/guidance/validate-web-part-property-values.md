@@ -58,7 +58,7 @@ To validate the value of a web part property, you have to implement the event ha
 
 For validation using remote APIs, the event handler returns a promise of string. If the provided value is invalid, the promise resolves with the error message. If the provided value is valid, the promise resolves with an empty string.
 
-## Validate web part property values inline
+
 
 In this step, you verify that the description web part property is specified and its value is not longer than 40 characters. You do this by using the inline validation process.
 
