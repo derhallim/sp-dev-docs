@@ -234,7 +234,7 @@ When creating a custom property pane control that uses React in the SharePoint F
   - The **disabled** property specifies if the dropdown control is disabled or not.
   - The **stateKey** property is used to force the React component to re-render.
 
-1. Define asynchronous dropdown React component interface. In the **src/controls/PropertyPaneAsyncDropdown/components** folder, create a new file named **IAsyncDropdownState.ts**, and enter the following code:
+1. Define asynchronous dropdown React component state interface. In the **src/controls/PropertyPaneAsyncDropdown/components** folder, create a new file named **IAsyncDropdownState.ts**, and enter the following code:
 
     ```ts
     import { IDropdownOption } from 'office-ui-fabric-react/lib/components/Dropdown';
